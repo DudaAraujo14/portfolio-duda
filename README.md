@@ -50,8 +50,7 @@ Estudo Engenharia de Software na FIAP e trabalho com linguagens como **Java, C#,
 
 ## 📫 Contato
 
-- 📧 Email: **seuemail@exemplo.com**  
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- 📧 Email: **eduarda.mpenas@gmail.com**   
 - 🐙 GitHub: [github.com/DudaAraujo14](https://github.com/DudaAraujo14)
 
 ---
